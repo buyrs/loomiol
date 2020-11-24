@@ -1,0 +1,28 @@
+nb_NO:
+  errors:
+    404:
+      title: Ikke funnet
+  group:
+    stats:
+      threads: Tråder
+      comments: Kommentarer
+      poll_types:
+        proposal: Forslag
+        time: Tidspunkt
+  poll:
+    export:
+      title: Tittel
+      total: Totalt
+  email:
+    group_membership_approved:
+      join_group: "Bli med i gruppe"
+  footer:
+    help: Hjelp
+    privacy: Personvern
+    public_groups: Offentlige grupper
+  poll_mailer:
+    common:
+      unsubscribe: Meld deg av
+      create_outcome: Del resultat
+  poll_unsubscribe:
+    go_to_dashboad: Gå til skrivebordet
